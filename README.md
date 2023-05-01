@@ -1,114 +1,124 @@
 
-# JavaScript
+# JavaScriptA0D
 
 ## course overview
-|type|link|notes|
-|-------|----|-----|
-|reading|[intro_to_mern]|[notes](./01javascript/01course_overview/intro_to_mern/README.md)|
-|reading|[course_outline]|[notes](./01javascript/01course_overview/course_outline/README.md)|
+|chapter|type|link|notes|
+|---|---|-------|----|-----|
+|course overview|reading|[intro_to_mern]|[notes](./01javascript/01course_overview/intro_to_mern/README.md)|
+||reading|[course_outline]|[notes](./01javascript/01course_overview/course_outline/README.md)|
 
 
 ## Node
-|type|link|notes|
-|-------|----|-----|
-|reading|[intro_to_node]|[notes](./01javascript/02node/intro_to_node/README.md)|
-|reading|[installation]|[notes](./01javascript/02node/installation/README.md)|
-|reading|[running_javascript]|[notes](./01javascript/02node/running_javascript/README.md)|
+|chapter|type|link|notes|
+|---|---|-------|----|-----|
+|Node|reading|[installation]|[notes](./01javascript/02node/installation/README.md)|
+||reading|[intro_to_node]|[notes](./01javascript/02node/intro_to_node/README.md)|
+||reading|[running_javascript]|[notes](./01javascript/02node/running_javascript/README.md)|
 
 ## fundamentals
-|type|link|notes|
-|-------|----|-----|
-|reading|[overview_fund]|[notes](./01javascript/03fundamentals/overview_fund/README.md)|
-|reading|[ecmascript]|[notes](./01javascript/03fundamentals/ecmascript/README.md)|
-|reading|[debugging]|[notes](./01javascript/03fundamentals/debugging/README.md)|
-|reading|[scope]|[notes](./01javascript/03fundamentals/scope/README.md)|
-|reading|[hoisting]|[notes](./01javascript/03fundamentals/hoisting/README.md)|
-|**practice**|[hoist_practice]|[notes](./01javascript/03fundamentals/hoist_practice/README.md)|
-|reading|[destructuring]|[notes](./01javascript/03fundamentals/destructuring/README.md)|
-|**core**|[predict_destructuring_core]|[notes](./01javascript/03fundamentals/predict_destructuring_core/README.md)|
-|reading|[rest_spread]|[notes](./01javascript/03fundamentals/rest_spread/README.md)|
-|reading|[arrow_functions]|[notes](./01javascript/03fundamentals/arrow_functions/README.md)|
-|**core**|[convert_to_arrow_core]|[notes](./01javascript/03fundamentals/convert_to_arrow_core/README.md)|
-|reading|[ternary_operator]|[notes](./01javascript/03fundamentals/ternary_operator/README.md)|
-|reading|[the_big_o]|[notes](./01javascript/03fundamentals/the_big_o/README.md)|
-|**optional**|[how_long_did_that_take_optional]|[notes](./01javascript/03fundamentals/how_long_did_that_take_optional/README.md)|
-|reading|[quick_sort_introduction]|[notes](./01javascript/03fundamentals/quick_sort_introduction/README.md)|
-|**optional**|[quick_sort_optional]|[notes](./01javascript/03fundamentals/quick_sort_optional/README.md)|
-|reading|[jest_unit_testing]|[notes](./01javascript/03fundamentals/jest_unit_testing/README.md)|
+|chapter|type|link|notes|
+|---|-------|----|-----|
+|fundamentals|reading|[overview_fund]|[notes](./01javascript/03fundamentals/overview_fund/README.md)|
+||reading|[ecmascript]|[notes](./01javascript/03fundamentals/ecmascript/README.md)|
+||reading|[debugging]|[notes](./01javascript/03fundamentals/debugging/README.md)|
+||reading|[scope]|[notes](./01javascript/03fundamentals/scope/README.md)|
+||reading|[hoisting]|[notes](./01javascript/03fundamentals/hoisting/README.md)|
+||**practice**|[hoist_practice]|[notes](./01javascript/03fundamentals/hoist_practice/README.md)|
+||reading|[destructuring]|[notes](./01javascript/03fundamentals/destructuring/README.md)|
+||**core**|[predict_destructuring_core]|[notes](./01javascript/03fundamentals/predict_destructuring_core/README.md)|
+||reading|[rest_spread]|[notes](./01javascript/03fundamentals/rest_spread/README.md)|
+||reading|[arrow_functions]|[notes](./01javascript/03fundamentals/arrow_functions/README.md)|
+||**core**|[convert_to_arrow_core]|[notes](./01javascript/03fundamentals/convert_to_arrow_core/README.md)|
+||reading|[ternary_operator]|[notes](./01javascript/03fundamentals/ternary_operator/README.md)|
+||reading|[the_big_o]|[notes](./01javascript/03fundamentals/the_big_o/README.md)|
+||**optional**|[how_long_did_that_take_optional]|[notes](./01javascript/03fundamentals/how_long_did_that_take_optional/README.md)|
+||reading|[quick_sort_introduction]|[notes](./01javascript/03fundamentals/quick_sort_introduction/README.md)|
+||**optional**|[quick_sort_optional]|[notes](./01javascript/03fundamentals/quick_sort_optional/README.md)|
+||reading|[jest_unit_testing]|[notes](./01javascript/03fundamentals/jest_unit_testing/README.md)|
 
 ## oop
-|type|link|notes|
-|-------|----|-----|
-|reading|[overview_oop]|[notes](./01javascript/04oop/overview_oop/README.md)|
-|reading|[classes]|[notes](./01javascript/04oop/classes/README.md)|
-|reading|[inheritance_and_super]|[notes](./01javascript/04oop/inheritance_and_super/README.md)|
-|**practice**|[ninja_practice]|[notes](./01javascript/04oop/ninja_practice/README.md)|
-|**core**|[super_ninja_core]|[notes](./01javascript/04oop/super_ninja_core/README.md)|
-|reading|[dojo_ccg]|[notes](./01javascript/04oop/dojo_ccg/README.md)|
-|**practice**|[its_time_to_duel_practice]|[notes](./01javascript/04oop/its_time_to_duel_practice/README.md)|
+|chapter|type|link|notes|
+|---|-------|----|-----|
+|OOP|reading|[overview_oop]|[notes](./01javascript/04oop/overview_oop/README.md)|
+||reading|[classes]|[notes](./01javascript/04oop/classes/README.md)|
+||reading|[inheritance_and_super]|[notes](./01javascript/04oop/inheritance_and_super/README.md)|
+||**practice**|[ninja_practice]|[notes](./01javascript/04oop/ninja_practice/README.md)|
+||**core**|[super_ninja_core]|[notes](./01javascript/04oop/super_ninja_core/README.md)|
+||reading|[dojo_ccg]|[notes](./01javascript/04oop/dojo_ccg/README.md)|
+||**practice**|[its_time_to_duel_practice]|[notes](./01javascript/04oop/its_time_to_duel_practice/README.md)|
 
 ## functional programming
-|type|link|notes|
-|-------|----|-----|
-|reading|[multi_paradigm]|[notes](./01javascript/05functional_programming/multi_paradigm/README.md)|
-|reading|[callback_functions]|[notes](./01javascript/05functional_programming/callback_functions/README.md)|
-|reading|[the_big_freeze]|[notes](./01javascript/05functional_programming/the_big_freeze/README.md)|
-|reading|[map_and_filter]|[notes](./01javascript/05functional_programming/map_and_filter/README.md)|
-|**optional**|[object_master_optional]|[notes](./01javascript/05functional_programming/object_master_optional/README.md)|
-|optional|[currying_optional]|[notes](./01javascript/05functional_programming/currying_optional/README.md)|
-|optional|[closures_optional]|[notes](./01javascript/05functional_programming/closures_optional/README.md)|
+|chapter|type|link|notes|
+|---|-------|----|-----|
+|functional programming|reading|[multi_paradigm]|[notes](./01javascript/05functional_programming/multi_paradigm/README.md)|
+||reading|[callback_functions]|[notes](./01javascript/05functional_programming/callback_functions/README.md)|
+||reading|[the_big_freeze]|[notes](./01javascript/05functional_programming/the_big_freeze/README.md)|
+||reading|[map_and_filter]|[notes](./01javascript/05functional_programming/map_and_filter/README.md)|
+||**optional**|[object_master_optional]|[notes](./01javascript/05functional_programming/object_master_optional/README.md)|
+||optional|[currying_optional]|[notes](./01javascript/05functional_programming/currying_optional/README.md)|
+||optional|[closures_optional]|[notes](./01javascript/05functional_programming/closures_optional/README.md)|
 
 ## npm 
-|type|link|notes|
-|-------|----|-----|
-|reading|[node_package_manager]|[notes](./01javascript/06npm/node_package_manager/README.md)|
+|chapter|type|link|notes|
+|---|-------|----|-----|
+|NPM|reading|[node_package_manager]|[notes](./01javascript/06npm/node_package_manager/README.md)|
 
 # React
 
 ## intro to React
-|type|link|notes|
-|-------|----|-----|
-|reading|[what_is_react]|[notes](./02react/01intro_to_react/what_is_react/README.md)|
-|reading|[using_react]|[notes](./02react/01intro_to_react/using_react/README.md)|
-|**practice**|[first_react_practice]|[notes](./02react/01intro_to_react/first_react_practice/README.md)|
-|reading|[jsx]|[notes](./02react/01intro_to_react/jsx/README.md)|
-|reading|[create_react_app]|[notes](./02react/01intro_to_react/create_react_app/README.md)|
-|reading|[folder_structure_react]|[notes](./02react/01intro_to_react/folder_structure_react/README.md)|
-|reading|[using_jsx]|[notes](./02react/01intro_to_react/using_jsx/README.md)|
-|**core**|[first_jsx_core]|[notes](./02react/01intro_to_react/first_jsx_core/README.md)|
+|chapter|type|link|notes|
+|---|-------|----|-----|
+|intro to React|reading|[what_is_react]|[notes](./02react/01intro_to_react/what_is_react/README.md)|
+||reading|[using_react]|[notes](./02react/01intro_to_react/using_react/README.md)|
+||**practice**|[first_react_practice]|[notes](./02react/01intro_to_react/first_react_practice/README.md)|
+||reading|[jsx]|[notes](./02react/01intro_to_react/jsx/README.md)|
+||reading|[create_react_app]|[notes](./02react/01intro_to_react/create_react_app/README.md)|
+||reading|[folder_structure_react]|[notes](./02react/01intro_to_react/folder_structure_react/README.md)|
+||reading|[using_jsx]|[notes](./02react/01intro_to_react/using_jsx/README.md)|
+||**core**|[first_jsx_core]|[notes](./02react/01intro_to_react/first_jsx_core/README.md)|
 
 ## class components
-|type|link|notes|
-|-------|----|-----|
-|reading|[class_components]|[notes](./02react/02class_components/class_components/README.md)|
+|chapter|type|link|notes|
+|---|-------|----|-----|
+|class components|reading|[class_components]|[notes](./02react/02class_components/class_components/README.md)|
 
 ## functional components
-|type|link|notes|
-|-------|----|-----|
-|reading|[function_vs_class]|[notes](./02react/03functional_components/function_vs_class/README.md)|
-|reading|[functional_components]|[notes](./02react/03functional_components/functional_components/README.md)|
-|**core**|[big_inversion_core]|[notes](./02react/03functional_components/big_inversion_core/README.md)|
-|reading|[useState]|[notes](./02react/03functional_components/useState/README.md)|
-|reading|[forms]|[notes](./02react/03functional_components/forms/README.md)|
-|**practice**|[hook_form_practice]|[notes](./02react/03functional_components/hook_form_practice/README.md)|
-|reading|[conditional_rendering]|[notes](./02react/03functional_components/conditional_rendering/README.md)|
-|**core**|[more_forms_core]|[notes](./02react/03functional_components/more_forms_core/README.md)|
-|reading|[useReducer]|[notes](./02react/03functional_components/useReducer/README.md)|
-|**optional**|[form_validation_optional]|[notes](./02react/03functional_components/form_validation_optional/README.md)|
-|reading|[iterating_with_map]|[notes](./02react/03functional_components/iterating_with_map/README.md)|
-|reading|[lifting_state]|[notes](./02react/03functional_components/lifting_state/README.md)|
-|**practice**|[box_generator_practice]|[notes](./02react/03functional_components/box_generator_practice/README.md)|
-|reading|[extra_callback_parameters]|[notes](./02react/03functional_components/extra_callback_parameters/README.md)|
-|**practice**|[tabs_practice]|[notes](./02react/03functional_components/tabs_practice/README.md)|
-|reading|[other_input_types]|[notes](./02react/03functional_components/other_input_types/README.md)|
-|**core**|[todo_list_core]|[notes](./02react/03functional_components/todo_list_core/README.md)|
-|reading|[context_api]|[notes](./02react/03functional_components/context_api/README.md)|
-|reading|[context_with_state]|[notes](./02react/03functional_components/context_with_state/README.md)|
-|**optional**|[navbar_context_optional]|[notes](./02react/03functional_components/navbar_context_optional/README.md)|
-|reading|[render_props]|[notes](./02react/03functional_components/render_props/README.md)|
-|reading|[custom_hooks]|[notes](./02react/03functional_components/custom_hooks/README.md)|
+|chapter|type|link|notes|
+|---|-------|----|-----|
+|functional components|reading|[function_vs_class]|[notes](./02react/03functional_components/function_vs_class/README.md)|
+||reading|[functional_components]|[notes](./02react/03functional_components/functional_components/README.md)|
+||**core**|[big_inversion_core]|[notes](./02react/03functional_components/big_inversion_core/README.md)|
+||reading|[useState]|[notes](./02react/03functional_components/useState/README.md)|
+||reading|[forms]|[notes](./02react/03functional_components/forms/README.md)|
+||**practice**|[hook_form_practice]|[notes](./02react/03functional_components/hook_form_practice/README.md)|
+||reading|[conditional_rendering]|[notes](./02react/03functional_components/conditional_rendering/README.md)|
+||**core**|[more_forms_core]|[notes](./02react/03functional_components/more_forms_core/README.md)|
+||reading|[useReducer]|[notes](./02react/03functional_components/useReducer/README.md)|
+||**optional**|[form_validation_optional]|[notes](./02react/03functional_components/form_validation_optional/README.md)|
+||reading|[iterating_with_map]|[notes](./02react/03functional_components/iterating_with_map/README.md)|
+||reading|[lifting_state]|[notes](./02react/03functional_components/lifting_state/README.md)|
+||**practice**|[box_generator_practice]|[notes](./02react/03functional_components/box_generator_practice/README.md)|
+||reading|[extra_callback_parameters]|[notes](./02react/03functional_components/extra_callback_parameters/README.md)|
+||**practice**|[tabs_practice]|[notes](./02react/03functional_components/tabs_practice/README.md)|
+||reading|[other_input_types]|[notes](./02react/03functional_components/other_input_types/README.md)|
+||**core**|[todo_list_core]|[notes](./02react/03functional_components/todo_list_core/README.md)|
+||reading|[context_api]|[notes](./02react/03functional_components/context_api/README.md)|
+||reading|[context_with_state]|[notes](./02react/03functional_components/context_with_state/README.md)|
+||**optional**|[navbar_context_optional]|[notes](./02react/03functional_components/navbar_context_optional/README.md)|
+||reading|[render_props]|[notes](./02react/03functional_components/render_props/README.md)|
+||reading|[custom_hooks]|[notes](./02react/03functional_components/custom_hooks/README.md)|
 
 ## APIs
+|chapter|type|link|notes|
+|---|-------|----|-----|
+|APIs|reading|[about_promises]|[notes](./02react/04apis/about_promises/README.md)|
+||**optional**|[coin_flipping_optional]|[notes](./02react/04apis/coin_flipping_optional/README.md)|
+||reading|[intro_to_rest_apis]|[notes](./02react/04apis/intro_to_rest_apis/README.md)|
+||reading|[consuming_apis]|[notes](./02react/04apis/consuming_apis/README.md)|
+||**practice**|[pokemon_api_practice]|[notes](./02react/04apis/pokemon_api_practice/README.md)|
+||reading|[axios]|[notes](./02react/04apis/axios/README.md)|
+||**core**|[axios_pokemon_api_core]|[notes](./02react/04apis/axios_pokemon_api_core/README.md)|
+||reading|[useEffect]|[notes](./02react/04apis/useEffect/README.md)|
 
 ## React Routing
 
