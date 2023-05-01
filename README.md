@@ -68,45 +68,45 @@
 ## intro to React
 |type|link|notes|
 |-------|----|-----|
-|reading|[what_is_react]|[notes](./02react/01intro_to_react/what_is_react/REA0DME.md)|
-|reading|[using_react]|[notes](./02react/01intro_to_react/using_react/REA0DME.md)|
-|**practice**|[first_react_practice]|[notes](./02react/01intro_to_react/first_react_practice/REA0DME.md)|
-|reading|[jsx]|[notes](./02react/01intro_to_react/jsx/REA0DME.md)|
-|reading|[create_react_app]|[notes](./02react/01intro_to_react/create_react_app/REA0DME.md)|
-|reading|[folder_structure_react]|[notes](./02react/01intro_to_react/folder_structure_react/REA0DME.md)|
-|reading|[using_jsx]|[notes](./02react/01intro_to_react/using_jsx/REA0DME.md)|
-|**core**|[first_jsx_core]|[notes](./02react/01intro_to_react/first_jsx_core/REA0DME.md)|
+|reading|[what_is_react]|[notes](./02react/01intro_to_react/what_is_react/README.md)|
+|reading|[using_react]|[notes](./02react/01intro_to_react/using_react/README.md)|
+|**practice**|[first_react_practice]|[notes](./02react/01intro_to_react/first_react_practice/README.md)|
+|reading|[jsx]|[notes](./02react/01intro_to_react/jsx/README.md)|
+|reading|[create_react_app]|[notes](./02react/01intro_to_react/create_react_app/README.md)|
+|reading|[folder_structure_react]|[notes](./02react/01intro_to_react/folder_structure_react/README.md)|
+|reading|[using_jsx]|[notes](./02react/01intro_to_react/using_jsx/README.md)|
+|**core**|[first_jsx_core]|[notes](./02react/01intro_to_react/first_jsx_core/README.md)|
 
 ## class components
 |type|link|notes|
 |-------|----|-----|
-|reading|[class_components]|[notes](./02react/02class_components/class_components/REA0DME.md)|
+|reading|[class_components]|[notes](./02react/02class_components/class_components/README.md)|
 
 ## functional components
 |type|link|notes|
 |-------|----|-----|
-|reading|[function_vs_class]|[notes](./02react/03functional_components/function_vs_class/REA0DME.md)|
-|reading|[functional_components]|[notes](./02react/03functional_components/functional_components/REA0DME.md)|
-|**core**|[big_inversion_core]|[notes](./02react/03functional_components/big_inversion_core/REA0DME.md)|
-|reading|[useState]|[notes](./02react/03functional_components/useState/REA0DME.md)|
-|reading|[forms]|[notes](./02react/03functional_components/forms/REA0DME.md)|
-|**practice**|[hook_form_practice]|[notes](./02react/03functional_components/hook_form_practice/REA0DME.md)|
-|reading|[conditional_rendering]|[notes](./02react/03functional_components/conditional_rendering/REA0DME.md)|
-|**core**|[more_forms_core]|[notes](./02react/03functional_components/more_forms_core/REA0DME.md)|
-|reading|[useReducer]|[notes](./02react/03functional_components/useReducer/REA0DME.md)|
-|**optional**|[form_validation_optional]|[notes](./02react/03functional_components/form_validation_optional/REA0DME.md)|
-|reading|[iterating_with_map]|[notes](./02react/03functional_components/iterating_with_map/REA0DME.md)|
-|reading|[lifting_state]|[notes](./02react/03functional_components/lifting_state/REA0DME.md)|
-|**practice**|[box_generator_practice]|[notes](./02react/03functional_components/box_generator_practice/REA0DME.md)|
-|reading|[extra_callback_parameters]|[notes](./02react/03functional_components/extra_callback_parameters/REA0DME.md)|
-|**practice**|[tabs_practice]|[notes](./02react/03functional_components/tabs_practice/REA0DME.md)|
-|reading|[other_input_types]|[notes](./02react/03functional_components/other_input_types/REA0DME.md)|
-|**core**|[todo_list_core]|[notes](./02react/03functional_components/todo_list_core/REA0DME.md)|
-|reading|[context_api]|[notes](./02react/03functional_components/context_api/REA0DME.md)|
-|reading|[context_with_state]|[notes](./02react/03functional_components/context_with_state/REA0DME.md)|
-|**optional**|[navbar_context_optional]|[notes](./02react/03functional_components/navbar_context_optional/REA0DME.md)|
-|reading|[render_props]|[notes](./02react/03functional_components/render_props/REA0DME.md)|
-|reading|[custom_hooks]|[notes](./02react/03functional_components/custom_hooks/REA0DME.md)|
+|reading|[function_vs_class]|[notes](./02react/03functional_components/function_vs_class/README.md)|
+|reading|[functional_components]|[notes](./02react/03functional_components/functional_components/README.md)|
+|**core**|[big_inversion_core]|[notes](./02react/03functional_components/big_inversion_core/README.md)|
+|reading|[useState]|[notes](./02react/03functional_components/useState/README.md)|
+|reading|[forms]|[notes](./02react/03functional_components/forms/README.md)|
+|**practice**|[hook_form_practice]|[notes](./02react/03functional_components/hook_form_practice/README.md)|
+|reading|[conditional_rendering]|[notes](./02react/03functional_components/conditional_rendering/README.md)|
+|**core**|[more_forms_core]|[notes](./02react/03functional_components/more_forms_core/README.md)|
+|reading|[useReducer]|[notes](./02react/03functional_components/useReducer/README.md)|
+|**optional**|[form_validation_optional]|[notes](./02react/03functional_components/form_validation_optional/README.md)|
+|reading|[iterating_with_map]|[notes](./02react/03functional_components/iterating_with_map/README.md)|
+|reading|[lifting_state]|[notes](./02react/03functional_components/lifting_state/README.md)|
+|**practice**|[box_generator_practice]|[notes](./02react/03functional_components/box_generator_practice/README.md)|
+|reading|[extra_callback_parameters]|[notes](./02react/03functional_components/extra_callback_parameters/README.md)|
+|**practice**|[tabs_practice]|[notes](./02react/03functional_components/tabs_practice/README.md)|
+|reading|[other_input_types]|[notes](./02react/03functional_components/other_input_types/README.md)|
+|**core**|[todo_list_core]|[notes](./02react/03functional_components/todo_list_core/README.md)|
+|reading|[context_api]|[notes](./02react/03functional_components/context_api/README.md)|
+|reading|[context_with_state]|[notes](./02react/03functional_components/context_with_state/README.md)|
+|**optional**|[navbar_context_optional]|[notes](./02react/03functional_components/navbar_context_optional/README.md)|
+|reading|[render_props]|[notes](./02react/03functional_components/render_props/README.md)|
+|reading|[custom_hooks]|[notes](./02react/03functional_components/custom_hooks/README.md)|
 
 ## APIs
 
