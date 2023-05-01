@@ -3,14 +3,14 @@
 
 ## course overview
 |chapter|type|link|notes|
-|---|---|-------|----|-----|
+|---|-------|----|-----|
 |course overview|reading|[intro_to_mern]|[notes](./01javascript/01course_overview/intro_to_mern/README.md)|
 ||reading|[course_outline]|[notes](./01javascript/01course_overview/course_outline/README.md)|
 
 
 ## Node
 |chapter|type|link|notes|
-|---|---|-------|----|-----|
+|---|-------|----|-----|
 |Node|reading|[installation]|[notes](./01javascript/02node/installation/README.md)|
 ||reading|[intro_to_node]|[notes](./01javascript/02node/intro_to_node/README.md)|
 ||reading|[running_javascript]|[notes](./01javascript/02node/running_javascript/README.md)|
