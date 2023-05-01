@@ -172,7 +172,7 @@
 [dojo_ccg]: https://login.codingdojo.com/m/674/15369/112053
 [its_time_to_duel_practice]: https://login.codingdojo.com/m/674/15369/112054
 
-[multi_paragigm]: https://login.codingdojo.com/m/674/15370/112055
+[multi_paradigm]: https://login.codingdojo.com/m/674/15370/112055
 [callback_functions]: https://login.codingdojo.com/m/674/15370/112057
 [the_big_freeze]: https://login.codingdojo.com/m/674/15370/112058
 [map_and_filter]: https://login.codingdojo.com/m/674/15370/112059
