@@ -278,4 +278,4 @@
 [material_ui]: https://login.codingdojo.com/m/674/15386/112253
 [validations_mern]: https://login.codingdojo.com/m/674/15386/112254
 [authors_core]: https://login.codingdojo.com/m/674/15386/112255
-[team_manager_practice]: https://login.codingdojo.com/m/674/15386/112256# mern_prep
+[team_manager_practice]: https://login.codingdojo.com/m/674/15386/112256
