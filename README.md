@@ -1,5 +1,5 @@
 
-# JavaScriptA0D
+# JavaScript
 
 ## course overview
 |chapter|type|link|notes|
@@ -81,6 +81,18 @@
 |chapter|type|link|notes|
 |---|-------|----|-----|
 |class components|reading|[class_components]|[notes](./02react/02class_components/class_components/README.md)|
+||reading|[props]|[notes](./02react/02class_components/props/README.md)|
+||**practice**|[prop_it_up_practice]|[notes](./02react/02class_components/prop_it_up_practice/README.md)|
+||reading|[children]|[notes](./02react/02class_components/children/README.md)|
+||reading|[synthetic_events]|[notes](./02react/02class_components/synthetic_events/README.md)|
+||reading|[state]|[notes](./02react/02class_components/state/README.md)|
+||reading|[state_vs_props]|[notes](./02react/02class_components/state_vs_props/README.md)|
+||**optional**|[putting_it_together_optional]|[notes](./02react/02class_components/putting_it_together_optional/README.md)|
+||reading|[lifecycle_methods]|[notes](./02react/02class_components/lifecycle_methods/README.md)|
+||reading|[styles]|[notes](./02react/02class_components/styles/README.md)|
+||**optional**|[react_blocks_optional]|[notes](./02react/02class_components/react_blocks_optional/README.md)|
+||reading|[css_in_js]|[notes](./02react/02class_components/css_in_js/README.md)|
+||reading|[useRef]|[notes](./02react/02class_components/useRef/README.md)|
 
 ## functional components
 |chapter|type|link|notes|
@@ -121,22 +133,81 @@
 ||reading|[useEffect]|[notes](./02react/04apis/useEffect/README.md)|
 
 ## React Routing
+|chapter|type|link|notes|
+|---|-------|----|-----|
+|React Routing|reading|[what_is_routing]|[notes](./02react/05react_routing/what_is_routing/README.md)|
+||reading|[react_router]|[notes](./02react/05react_routing/react_router/README.md)|
+||reading|[useParams]|[notes](./02react/05react_routing/useParams/README.md)|
+||reading|[useNavigate]|[notes](./02react/05react_routing/useNavigate/README.md)|
+||**practice**|[routing_practice_practice]|[notes](./02react/05react_routing/routing_practice_practice/README.md)|
+||**core**|[luke_apiwalker_core]|[notes](./02react/05react_routing/luke_apiwalker_core/README.md)|
 
 # Express
 
 ## Express
+|chapter|type|link|notes|
+|---|-------|----|-----|
+|express|reading|[what_is_an_api]|[notes](./03express/01express/what_is_an_api/README.md)|
+||reading|[postman]|[notes](./03express/01express/postman/README.md)|
+||**practice**|[postman_pokemon_practice]|[notes](./03express/01express/postman_pokemon_practice/README.md)|
+||reading|[http_verbs]|[notes](./03express/01express/http_verbs/README.md)|
+||reading|[express_nodemon]|[notes](./03express/01express/express_nodemon/README.md)|
+||reading|[routing]|[notes](./03express/01express/routing/README.md)|
+||**core**|[faker_api_core]|[notes](./03express/01express/faker_api_core/README.md)|
+||reading|[folder_structure_express]|[notes](./03express/01express/folder_structure_express/README.md)|
 
 # MongoDB
 
 ## MongoDB
+|chapter|type|link|notes|
+|---|-------|----|-----|
+|MongoDB|reading|[overview_mongodb]|[notes](./04mongodb/01mongodb/overview_mongodb/README.md)|
+||reading|[mongodb_atlas_setup]|[notes](./04mongodb/01mongodb/mongodb_atlas_setup/README.md)|
+||reading|[installing_locally_optional]|[notes](./04mongodb/01mongodb/installing_locally_optional/README.md)|
+||reading|[basics]|[notes](./04mongodb/01mongodb/basics/README.md)|
+||reading|[commands]|[notes](./04mongodb/01mongodb/commands/README.md)|
+||reading|[operators]|[notes](./04mongodb/01mongodb/operators/README.md)|
+||**practice**|[using_mongodb_practice]|[notes](./04mongodb/01mongodb/using_mongodb_practice/README.md)|
 
 ## Mongoose
+|chapter|type|link|notes|
+|---|-------|----|-----|
+|Mongoose|reading|[express_mongoose]|[notes](./04mongodb/02mongoose/express_mongoose/README.md)|
+||reading|[mongoose_commands]|[notes](./04mongodb/02mongoose/mongoose_commands/README.md)|
+||reading|[validations]|[notes](./04mongodb/02mongoose/validations/README.md)|
+||**core**|[jokes_api_core]|[notes](./04mongodb/02mongoose/jokes_api_core/README.md)|
+||reading|[nested_documents]|[notes](./04mongodb/02mongoose/nested_documents/README.md)|
 
 # Full Stack MERN
 
 ## full stack MERN
+|chapter|type|link|notes|
+|---|-------|----|-----|
+|Full Stack MERN|reading|[introduction]|[notes](./05full_stack_mern/01full_stack_mern/introduction/README.md)|
+||reading|[setting_up_mern]|[notes](./05full_stack_mernb/01full_stack_mern/setting_up_mern/README.md)|
+||reading|[hello_world]|[notes](./05full_stack_mernb/01full_stack_mern/hello_world/README.md)|
+||reading|[create_part_one]|[notes](./05full_stack_mernb/01full_stack_mern/create_part_one/README.md)|
+||reading|[create_part_two]|[notes](./05full_stack_mernb/01full_stack_mern/create_part_two/README.md)|
+||**practice**|[product_manager_part_one_practice]|[notes](./05full_stack_mernb/01full_stack_mern/product_manager_part_one_practice/README.md)|
+||reading|[list_and_detail]|[notes](./05full_stack_mernb/01full_stack_mern/list_and_detail/README.md)|
+||**core**|[product_manager_part_two_core]|[notes](./05full_stack_mernb/01full_stack_mern/product_manager_part_two_core/README.md)|
+||reading|[update_and_delete]|[notes](./05full_stack_mernb/01full_stack_mern/update_and_delete/README.md)|
+||**core**|[product_manager_part_three_core]|[notes](./05full_stack_mernb/01full_stack_mern/product_manager_part_three_core/README.md)|
+||reading|[looking_ahead]|[notes](./05full_stack_mernb/01full_stack_mern/looking_ahead/README.md)|
 
 ## Advanced MERN
+|chapter|type|link|notes|
+|---|-------|----|-----|
+|Advanced MERN|reading|[overview_advanced_mern]|[notes](./05full_stack_mern/02advanced_mern/overview_advanced_mern/README.md)|
+||reading|[reusing_components]|[notes](./05full_stack_mernb/02advanced_mern/reusing_components/README.md)|
+||reading|[reusing_components_part_two]|[notes](./05full_stack_mernb/02advanced_mern/reusing_components_part_two/README.md)|
+||reading|[presentational_vs_container]|[notes](./05full_stack_mernb/02advanced_mern/presentational_vs_container/README.md)|
+||**optional**|[refactor_reuse_recycle_optional]|[notes](./05full_stack_mernb/02advanced_mern/refactor_reuse_recycle_optional/README.md)|
+||reading|[material_ui]|[notes](./05full_stack_mernb/02advanced_mern/material_ui/README.md)|
+||reading|[validations]|[notes](./05full_stack_mernb/02advanced_mern/validations/README.md)|
+||**core**|[authors_core]|[notes](./05full_stack_mernb/02advanced_mern/authors_core/README.md)|
+||**practice**|[team_manager_practice]|[notes](./05full_stack_mernb/02advanced_mern/team_manager_practice/README.md)|
+||reading|[sports_demo]|[notes](./05full_stack_mernb/02advanced_mern/sports_demo/README.md)|
 
 
 [intro_to_mern]: https://login.codingdojo.com/m/674/15366/112023
@@ -193,10 +264,16 @@
 
 [class_components]: https://login.codingdojo.com/m/674/15378/112148
 [props]: https://login.codingdojo.com/m/674/15378/112149
-[prop_it_up]: https://login.codingdojo.com/m/674/15378/112151
+[prop_it_up_practice]: https://login.codingdojo.com/m/674/15378/112151
 [children]: https://login.codingdojo.com/m/674/15378/112152
 [synthetic_events]: https://login.codingdojo.com/m/674/15378/112153
 [state]: https://login.codingdojo.com/m/674/15378/112154
+[putting_it_together_optional]: https://login.codingdojo.com/m/674/15378/112156
+[lifecycle_methods]: https://login.codingdojo.com/m/674/15378/112157
+[styles]: https://login.codingdojo.com/m/674/15378/112159
+[react_blocks_optional]: https://login.codingdojo.com/m/674/15378/112160
+[css_in_js]: https://login.codingdojo.com/m/674/15378/112161
+[useRef]: https://login.codingdojo.com/m/674/15378/112162
 
 [function_vs_class]: https://login.codingdojo.com/m/674/15379/112164
 [functional_components]: https://login.codingdojo.com/m/674/15379/112165
@@ -243,10 +320,10 @@
 [http_verbs]: https://login.codingdojo.com/m/674/15382/112216
 [express_nodemon]: https://login.codingdojo.com/m/674/15382/112217
 [routing]: https://login.codingdojo.com/m/674/15382/112218
-[faker_api]: https://login.codingdojo.com/m/674/15382/112219
+[faker_api_core]: https://login.codingdojo.com/m/674/15382/112219
 [folder_structure_express]: https://login.codingdojo.com/m/674/15382/112220
 
-[overview_mongo]: https://login.codingdojo.com/m/674/15383/112222
+[overview_mongodb]: https://login.codingdojo.com/m/674/15383/112222
 [mongodb_atlas_setup]: https://login.codingdojo.com/m/674/15383/112223
 [installing_locally_optional]: https://login.codingdojo.com/m/674/15383/112224
 [basics]: https://login.codingdojo.com/m/674/15383/112225
@@ -268,6 +345,8 @@
 [product_manager_part_one_practice]: https://login.codingdojo.com/m/674/15385/112242
 [list_and_detail]: https://login.codingdojo.com/m/674/15385/112243
 [product_manager_part_two_core]: https://login.codingdojo.com/m/674/15385/112244
+[update_and_delete]: https://login.codingdojo.com/m/674/15385/112245
+[product_manager_part_three_core]: https://login.codingdojo.com/m/674/15385/112246
 [looking_ahead]: https://login.codingdojo.com/m/674/15385/112245
 
 [overview_advanced_mern]: https://login.codingdojo.com/m/674/15386/112248
@@ -279,3 +358,4 @@
 [validations_mern]: https://login.codingdojo.com/m/674/15386/112254
 [authors_core]: https://login.codingdojo.com/m/674/15386/112255
 [team_manager_practice]: https://login.codingdojo.com/m/674/15386/112256
+[sports_demo]: https://login.codingdojo.com/m/674/15386/112257
