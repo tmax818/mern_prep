@@ -316,7 +316,7 @@
 
 [what_is_an_api]: https://login.codingdojo.com/m/674/15382/112213
 [postman]: https://login.codingdojo.com/m/674/15382/112214
-[postman_pokemon]: https://login.codingdojo.com/m/674/15382/112215
+[postman_pokemon_practice]: https://login.codingdojo.com/m/674/15382/112215
 [http_verbs]: https://login.codingdojo.com/m/674/15382/112216
 [express_nodemon]: https://login.codingdojo.com/m/674/15382/112217
 [routing]: https://login.codingdojo.com/m/674/15382/112218
