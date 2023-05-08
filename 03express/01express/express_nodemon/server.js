@@ -4,8 +4,12 @@ const port = 8000;
     
 // req is shorthand for request
 // res is shorthand for response
+app.get("/", (req, res) => {
+    res.sendFile(__dirname + "/index.html")
+});
+
 app.get("/api", (req, res) => {
-    res.json({ message: "Hello World" });
+    res.json({ message: "Hello World" });
 });
 
 // this needs to be below the other code blocks
