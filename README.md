@@ -1,23 +1,14 @@
 
 # JavaScript
 
-## course overview
+
 |chapter|type|link|notes|
 |---|-------|----|-----|
 |course overview|reading|[intro_to_mern]|[notes](./01javascript/01course_overview/intro_to_mern/README.md)|
 ||reading|[course_outline]|[notes](./01javascript/01course_overview/course_outline/README.md)|
-
-
-## Node
-|chapter|type|link|notes|
-|---|-------|----|-----|
 |Node|reading|[installation]|[notes](./01javascript/02node/installation/README.md)|
 ||reading|[intro_to_node]|[notes](./01javascript/02node/intro_to_node/README.md)|
 ||reading|[running_javascript]|[notes](./01javascript/02node/running_javascript/README.md)|
-
-## fundamentals
-|chapter|type|link|notes|
-|---|-------|----|-----|
 |fundamentals|reading|[overview_fund]|[notes](./01javascript/03fundamentals/overview_fund/README.md)|
 ||reading|[ecmascript]|[notes](./01javascript/03fundamentals/ecmascript/README.md)|
 ||reading|[debugging]|[notes](./01javascript/03fundamentals/debugging/README.md)|
@@ -35,10 +26,6 @@
 ||reading|[quick_sort_introduction]|[notes](./01javascript/03fundamentals/quick_sort_introduction/README.md)|
 ||**optional**|[quick_sort_optional]|[notes](./01javascript/03fundamentals/quick_sort_optional/README.md)|
 ||reading|[jest_unit_testing]|[notes](./01javascript/03fundamentals/jest_unit_testing/README.md)|
-
-## oop
-|chapter|type|link|notes|
-|---|-------|----|-----|
 |OOP|reading|[overview_oop]|[notes](./01javascript/04oop/overview_oop/README.md)|
 ||reading|[classes]|[notes](./01javascript/04oop/classes/README.md)|
 ||reading|[inheritance_and_super]|[notes](./01javascript/04oop/inheritance_and_super/README.md)|
@@ -46,10 +33,6 @@
 ||**core**|[super_ninja_core]|[notes](./01javascript/04oop/super_ninja_core/README.md)|
 ||reading|[dojo_ccg]|[notes](./01javascript/04oop/dojo_ccg/README.md)|
 ||**practice**|[its_time_to_duel_practice]|[notes](./01javascript/04oop/its_time_to_duel_practice/README.md)|
-
-## functional programming
-|chapter|type|link|notes|
-|---|-------|----|-----|
 |functional programming|reading|[multi_paradigm]|[notes](./01javascript/05functional_programming/multi_paradigm/README.md)|
 ||reading|[callback_functions]|[notes](./01javascript/05functional_programming/callback_functions/README.md)|
 ||reading|[the_big_freeze]|[notes](./01javascript/05functional_programming/the_big_freeze/README.md)|
@@ -57,15 +40,10 @@
 ||**optional**|[object_master_optional]|[notes](./01javascript/05functional_programming/object_master_optional/README.md)|
 ||optional|[currying_optional]|[notes](./01javascript/05functional_programming/currying_optional/README.md)|
 ||optional|[closures_optional]|[notes](./01javascript/05functional_programming/closures_optional/README.md)|
-
-## npm 
-|chapter|type|link|notes|
-|---|-------|----|-----|
 |NPM|reading|[node_package_manager]|[notes](./01javascript/06npm/node_package_manager/README.md)|
 
 # React
 
-## intro to React
 |chapter|type|link|notes|
 |---|-------|----|-----|
 |intro to React|reading|[what_is_react]|[notes](./02react/01intro_to_react/what_is_react/README.md)|
@@ -76,10 +54,6 @@
 ||reading|[folder_structure_react]|[notes](./02react/01intro_to_react/folder_structure_react/README.md)|
 ||reading|[using_jsx]|[notes](./02react/01intro_to_react/using_jsx/README.md)|
 ||**core**|[first_jsx_core]|[notes](./02react/01intro_to_react/first_jsx_core/README.md)|
-
-## class components
-|chapter|type|link|notes|
-|---|-------|----|-----|
 |class components|reading|[class_components]|[notes](./02react/02class_components/class_components/README.md)|
 ||reading|[props]|[notes](./02react/02class_components/props/README.md)|
 ||**practice**|[prop_it_up_practice]|[notes](./02react/02class_components/prop_it_up_practice/README.md)|
@@ -93,10 +67,6 @@
 ||**optional**|[react_blocks_optional]|[notes](./02react/02class_components/react_blocks_optional/README.md)|
 ||reading|[css_in_js]|[notes](./02react/02class_components/css_in_js/README.md)|
 ||reading|[useRef]|[notes](./02react/02class_components/useRef/README.md)|
-
-## functional components
-|chapter|type|link|notes|
-|---|-------|----|-----|
 |functional components|reading|[function_vs_class]|[notes](./02react/03functional_components/function_vs_class/README.md)|
 ||reading|[functional_components]|[notes](./02react/03functional_components/functional_components/README.md)|
 ||**core**|[big_inversion_core]|[notes](./02react/03functional_components/big_inversion_core/README.md)|
@@ -119,10 +89,6 @@
 ||**optional**|[navbar_context_optional]|[notes](./02react/03functional_components/navbar_context_optional/README.md)|
 ||reading|[render_props]|[notes](./02react/03functional_components/render_props/README.md)|
 ||reading|[custom_hooks]|[notes](./02react/03functional_components/custom_hooks/README.md)|
-
-## APIs
-|chapter|type|link|notes|
-|---|-------|----|-----|
 |APIs|reading|[about_promises]|[notes](./02react/04apis/about_promises/README.md)|
 ||**optional**|[coin_flipping_optional]|[notes](./02react/04apis/coin_flipping_optional/README.md)|
 ||reading|[intro_to_rest_apis]|[notes](./02react/04apis/intro_to_rest_apis/README.md)|
@@ -131,10 +97,6 @@
 ||reading|[axios]|[notes](./02react/04apis/axios/README.md)|
 ||**core**|[axios_pokemon_api_core]|[notes](./02react/04apis/axios_pokemon_api_core/README.md)|
 ||reading|[useEffect]|[notes](./02react/04apis/useEffect/README.md)|
-
-## React Routing
-|chapter|type|link|notes|
-|---|-------|----|-----|
 |React Routing|reading|[what_is_routing]|[notes](./02react/05react_routing/what_is_routing/README.md)|
 ||reading|[react_router]|[notes](./02react/05react_routing/react_router/README.md)|
 ||reading|[useParams]|[notes](./02react/05react_routing/useParams/README.md)|
@@ -144,7 +106,6 @@
 
 # Express
 
-## Express
 |chapter|type|link|notes|
 |---|-------|----|-----|
 |express|reading|[what_is_an_api]|[notes](./03express/01express/what_is_an_api/README.md)|
@@ -158,7 +119,6 @@
 
 # MongoDB
 
-## MongoDB
 |chapter|type|link|notes|
 |---|-------|----|-----|
 |MongoDB|reading|[overview_mongodb]|[notes](./04mongodb/01mongodb/overview_mongodb/README.md)|
@@ -168,10 +128,6 @@
 ||reading|[commands]|[notes](./04mongodb/01mongodb/commands/README.md)|
 ||reading|[operators]|[notes](./04mongodb/01mongodb/operators/README.md)|
 ||**practice**|[using_mongodb_practice]|[notes](./04mongodb/01mongodb/using_mongodb_practice/README.md)|
-
-## Mongoose
-|chapter|type|link|notes|
-|---|-------|----|-----|
 |Mongoose|reading|[express_mongoose]|[notes](./04mongodb/02mongoose/express_mongoose/README.md)|
 ||reading|[mongoose_commands]|[notes](./04mongodb/02mongoose/mongoose_commands/README.md)|
 ||reading|[validations]|[notes](./04mongodb/02mongoose/validations/README.md)|
@@ -194,10 +150,6 @@
 ||reading|[update_and_delete]|[notes](./05full_stack_mernb/01full_stack_mern/update_and_delete/README.md)|
 ||**core**|[product_manager_part_three_core]|[notes](./05full_stack_mernb/01full_stack_mern/product_manager_part_three_core/README.md)|
 ||reading|[looking_ahead]|[notes](./05full_stack_mernb/01full_stack_mern/looking_ahead/README.md)|
-
-## Advanced MERN
-|chapter|type|link|notes|
-|---|-------|----|-----|
 |Advanced MERN|reading|[overview_advanced_mern]|[notes](./05full_stack_mern/02advanced_mern/overview_advanced_mern/README.md)|
 ||reading|[reusing_components]|[notes](./05full_stack_mernb/02advanced_mern/reusing_components/README.md)|
 ||reading|[reusing_components_part_two]|[notes](./05full_stack_mernb/02advanced_mern/reusing_components_part_two/README.md)|
