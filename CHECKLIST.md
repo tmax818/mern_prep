@@ -2,9 +2,9 @@
 # JavaScript
 
 
-|state|type|link|notes|
+|repo|type|link|notes|
 |---|-------|----|-----|
-||**practice**|[hoist_practice]|[notes](./01javascript/03fundamentals/hoist_practice/README.md)|
+|[mern_hoist_practice]|**practice**|[hoist_practice]|[notes](./01javascript/03fundamentals/hoist_practice/README.md)|
 ||**core**|[predict_destructuring_core]|[notes](./01javascript/03fundamentals/predict_destructuring_core/README.md)|
 ||**core**|[convert_to_arrow_core]|[notes](./01javascript/03fundamentals/convert_to_arrow_core/README.md)|
 ||**optional**|[how_long_did_that_take_optional]|[notes](./01javascript/03fundamentals/how_long_did_that_take_optional/README.md)|
@@ -45,11 +45,19 @@
 
 
 [hoist_practice]: https://login.codingdojo.com/m/674/15368/112035
+[mern_hoist_practice]: https://github.com/tmax818/mern_hoist_practice
+
 [predict_destructuring_core]: https://login.codingdojo.com/m/674/15368/112037
+[mern_predict_destructuring_core]: https://github.com/tmax818/mern_predict_destructuring_core
+
 [convert_to_arrow_core]: https://login.codingdojo.com/m/674/15368/112040
+
 [how_long_did_that_take_optional]: https://login.codingdojo.com/m/674/15368/112043
+
 [quick_sort_optional]: https://login.codingdojo.com/m/674/15368/112045
+
 [ninja_practice]: https://login.codingdojo.com/m/674/15369/112051
+
 [super_ninja_core]: https://login.codingdojo.com/m/674/15369/112052
 [its_time_to_duel_practice]: https://login.codingdojo.com/m/674/15369/112054
 [object_master_optional]: https://login.codingdojo.com/m/674/15370/112060
@@ -72,7 +80,10 @@
 [routing_practice_practice]: https://login.codingdojo.com/m/674/15381/112205
 [luke_apiwalker_core]: https://login.codingdojo.com/m/674/15381/112206
 [postman_pokemon_practice]: https://login.codingdojo.com/m/674/15382/112215
+
 [faker_api_core]: https://login.codingdojo.com/m/674/15382/112219
+[mern_faker_api_core]: https://github.com/tmax818/mern_faker_api_core
+
 [using_mongodb_practice]: https://login.codingdojo.com/m/674/15383/112230
 [express_mongoose]: https://login.codingdojo.com/m/674/15384/112231
 [mongoose_commands]: https://login.codingdojo.com/m/674/15384/112232
