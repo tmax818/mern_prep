@@ -140,26 +140,26 @@
 |chapter|type|link|notes|
 |---|-------|----|-----|
 |Full Stack MERN|reading|[introduction]|[notes](./05full_stack_mern/01full_stack_mern/introduction/README.md)|
-||reading|[setting_up_mern]|[notes](./05full_stack_mernb/01full_stack_mern/setting_up_mern/README.md)|
-||reading|[hello_world]|[notes](./05full_stack_mernb/01full_stack_mern/hello_world/README.md)|
-||reading|[create_part_one]|[notes](./05full_stack_mernb/01full_stack_mern/create_part_one/README.md)|
-||reading|[create_part_two]|[notes](./05full_stack_mernb/01full_stack_mern/create_part_two/README.md)|
-||**practice**|[product_manager_part_one_practice]|[notes](./05full_stack_mernb/01full_stack_mern/product_manager_part_one_practice/README.md)|
-||reading|[list_and_detail]|[notes](./05full_stack_mernb/01full_stack_mern/list_and_detail/README.md)|
-||**core**|[product_manager_part_two_core]|[notes](./05full_stack_mernb/01full_stack_mern/product_manager_part_two_core/README.md)|
-||reading|[update_and_delete]|[notes](./05full_stack_mernb/01full_stack_mern/update_and_delete/README.md)|
-||**core**|[product_manager_part_three_core]|[notes](./05full_stack_mernb/01full_stack_mern/product_manager_part_three_core/README.md)|
-||reading|[looking_ahead]|[notes](./05full_stack_mernb/01full_stack_mern/looking_ahead/README.md)|
+||reading|[setting_up_mern]|[notes](./05full_stack_mern/01full_stack_mern/setting_up_mern/README.md)|
+||reading|[hello_world]|[notes](./05full_stack_mern/01full_stack_mern/hello_world/README.md)|
+||reading|[create_part_one]|[notes](./05full_stack_mern/01full_stack_mern/create_part_one/README.md)|
+||reading|[create_part_two]|[notes](./05full_stack_mern/01full_stack_mern/create_part_two/README.md)|
+||**practice**|[product_manager_part_one_practice]|[notes](./05full_stack_mern/01full_stack_mern/product_manager_part_one_practice/README.md)|
+||reading|[list_and_detail]|[notes](./05full_stack_mern/01full_stack_mern/list_and_detail/README.md)|
+||**core**|[product_manager_part_two_core]|[notes](./05full_stack_mern/01full_stack_mern/product_manager_part_two_core/README.md)|
+||reading|[update_and_delete]|[notes](./05full_stack_mern/01full_stack_mern/update_and_delete/README.md)|
+||**core**|[product_manager_part_three_core]|[notes](./05full_stack_mern/01full_stack_mern/product_manager_part_three_core/README.md)|
+||reading|[looking_ahead]|[notes](./05full_stack_mern/01full_stack_mern/looking_ahead/README.md)|
 |Advanced MERN|reading|[overview_advanced_mern]|[notes](./05full_stack_mern/02advanced_mern/overview_advanced_mern/README.md)|
-||reading|[reusing_components]|[notes](./05full_stack_mernb/02advanced_mern/reusing_components/README.md)|
-||reading|[reusing_components_part_two]|[notes](./05full_stack_mernb/02advanced_mern/reusing_components_part_two/README.md)|
-||reading|[presentational_vs_container]|[notes](./05full_stack_mernb/02advanced_mern/presentational_vs_container/README.md)|
-||**optional**|[refactor_reuse_recycle_optional]|[notes](./05full_stack_mernb/02advanced_mern/refactor_reuse_recycle_optional/README.md)|
-||reading|[material_ui]|[notes](./05full_stack_mernb/02advanced_mern/material_ui/README.md)|
-||reading|[validations]|[notes](./05full_stack_mernb/02advanced_mern/validations/README.md)|
-||**core**|[authors_core]|[notes](./05full_stack_mernb/02advanced_mern/authors_core/README.md)|
-||**practice**|[team_manager_practice]|[notes](./05full_stack_mernb/02advanced_mern/team_manager_practice/README.md)|
-||reading|[sports_demo]|[notes](./05full_stack_mernb/02advanced_mern/sports_demo/README.md)|
+||reading|[reusing_components]|[notes](./05full_stack_mern/02advanced_mern/reusing_components/README.md)|
+||reading|[reusing_components_part_two]|[notes](./05full_stack_mern/02advanced_mern/reusing_components_part_two/README.md)|
+||reading|[presentational_vs_container]|[notes](./05full_stack_mern/02advanced_mern/presentational_vs_container/README.md)|
+||**optional**|[refactor_reuse_recycle_optional]|[notes](./05full_stack_mern/02advanced_mern/refactor_reuse_recycle_optional/README.md)|
+||reading|[material_ui]|[notes](./05full_stack_mern/02advanced_mern/material_ui/README.md)|
+||reading|[validations]|[notes](./05full_stack_mern/02advanced_mern/validations/README.md)|
+||**core**|[authors_core]|[notes](./05full_stack_mern/02advanced_mern/authors_core/README.md)|
+||**practice**|[team_manager_practice]|[notes](./05full_stack_mern/02advanced_mern/team_manager_practice/README.md)|
+||reading|[sports_demo]|[notes](./05full_stack_mern/02advanced_mern/sports_demo/README.md)|
 
 
 [intro_to_mern]: https://login.codingdojo.com/m/674/15366/112023
