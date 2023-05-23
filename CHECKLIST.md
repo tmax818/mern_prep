@@ -5,15 +5,15 @@
 |repo|type|link|notes|
 |---|-------|----|-----|
 |[mern_hoist_practice]|**practice**|[hoist_practice]|[notes](./01javascript/03fundamentals/hoist_practice/README.md)|
-||**core**|[predict_destructuring_core]|[notes](./01javascript/03fundamentals/predict_destructuring_core/README.md)|
-||**core**|[convert_to_arrow_core]|[notes](./01javascript/03fundamentals/convert_to_arrow_core/README.md)|
+|[mern_predict_destructuring_core]|**core**|[predict_destructuring_core]|[notes](./01javascript/03fundamentals/predict_destructuring_core/README.md)|
+|[mern_convert_to_arrow_core]|**core**|[convert_to_arrow_core]|[notes](./01javascript/03fundamentals/convert_to_arrow_core/README.md)|
 ||**optional**|[how_long_did_that_take_optional]|[notes](./01javascript/03fundamentals/how_long_did_that_take_optional/README.md)|
 ||**optional**|[quick_sort_optional]|[notes](./01javascript/03fundamentals/quick_sort_optional/README.md)||
-||**practice**|[ninja_practice]|[notes](./01javascript/04oop/ninja_practice/README.md)|
+|[mern_ninja_practice]|**practice**|[ninja_practice]|[notes](./01javascript/04oop/ninja_practice/README.md)|
 ||**core**|[super_ninja_core]|[notes](./01javascript/04oop/super_ninja_core/README.md)|
 ||**practice**|[its_time_to_duel_practice]|[notes](./01javascript/04oop/its_time_to_duel_practice/README.md)|
 ||**optional**|[object_master_optional]|[notes](./01javascript/05functional_programming/object_master_optional/README.md)|
-||**practice**|[first_react_practice]|[notes](./02react/01intro_to_react/first_react_practice/README.md)|
+|[mern_first_react_practice]|**practice**|[first_react_practice]|[notes](./02react/01intro_to_react/first_react_practice/README.md)|
 ||**core**|[first_jsx_core]|[notes](./02react/01intro_to_react/first_jsx_core/README.md)|
 ||**practice**|[prop_it_up_practice]|[notes](./02react/02class_components/prop_it_up_practice/README.md)|
 ||**optional**|[putting_it_together_optional]|[notes](./02react/02class_components/putting_it_together_optional/README.md)|
@@ -51,22 +51,36 @@
 [mern_predict_destructuring_core]: https://github.com/tmax818/mern_predict_destructuring_core
 
 [convert_to_arrow_core]: https://login.codingdojo.com/m/674/15368/112040
+[mern_convert_to_arrow_core]: https://github.com/tmax818/mern_convert_to_arrow_core
 
 [how_long_did_that_take_optional]: https://login.codingdojo.com/m/674/15368/112043
 
 [quick_sort_optional]: https://login.codingdojo.com/m/674/15368/112045
 
 [ninja_practice]: https://login.codingdojo.com/m/674/15369/112051
+[mern_ninja_practice]: https://github.com/tmax818/mern_ninja_practice
 
 [super_ninja_core]: https://login.codingdojo.com/m/674/15369/112052
+[mern_super_ninja_core]: https://github.com/tmax818/mern_super_ninja_core
+
 [its_time_to_duel_practice]: https://login.codingdojo.com/m/674/15369/112054
+
 [object_master_optional]: https://login.codingdojo.com/m/674/15370/112060
+
 [first_react_practice]: https://login.codingdojo.com/m/674/15377/112141
+[mern_first_react_practice]: https://github.com/tmax818/mern_first_react_practice
+
 [first_jsx_core]: https://login.codingdojo.com/m/674/15377/112146
+[mern_first_jsx_core]: https://github.com/tmax818/mern_first_jsx_core
+
 [prop_it_up_practice]: https://login.codingdojo.com/m/674/15378/112151
+
 [putting_it_together_optional]: https://login.codingdojo.com/m/674/15378/112156
+
 [react_blocks_optional]: https://login.codingdojo.com/m/674/15378/112160
+
 [big_inversion_core]: https://login.codingdojo.com/m/674/15379/112166
+
 [hook_form_practice]: https://login.codingdojo.com/m/674/15379/112171
 [more_forms_core]: https://login.codingdojo.com/m/674/15379/112173
 [form_validation_optional]: https://login.codingdojo.com/m/674/15379/112175
@@ -85,10 +99,12 @@
 [mern_faker_api_core]: https://github.com/tmax818/mern_faker_api_core
 
 [using_mongodb_practice]: https://login.codingdojo.com/m/674/15383/112230
-[express_mongoose]: https://login.codingdojo.com/m/674/15384/112231
-[mongoose_commands]: https://login.codingdojo.com/m/674/15384/112232
-[validations]: https://login.codingdojo.com/m/674/15384/112233
+[mern_using_mongodb_practice]: https://github.com/tmax818/mern_using_mongodb_practice
+
+
 [jokes_api_core]: https://login.codingdojo.com/m/674/15384/112235
+[mern_jokes_api_core]: https://github.com/tmax818/mern_jokes_api_core
+
 [nested_documents]: https://login.codingdojo.com/m/674/15384/112236
 [introduction]: https://login.codingdojo.com/m/674/15385/112237
 [setting_up_mern]: https://login.codingdojo.com/m/674/15385/112238
@@ -103,4 +119,7 @@
 [looking_ahead]: https://login.codingdojo.com/m/674/15385/112245
 [refactor_reuse_recycle_optional]: https://login.codingdojo.com/m/674/15386/112252
 [authors_core]: https://login.codingdojo.com/m/674/15386/112255
+
+
 [team_manager_practice]: https://login.codingdojo.com/m/674/15386/112256
+[mern_team_manager_practice]: https://github.com/tmax818/mern_team_manager_practice
