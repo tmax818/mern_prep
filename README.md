@@ -174,32 +174,53 @@
 [debugging]: https://login.codingdojo.com/m/674/15368/112031
 [scope]: https://login.codingdojo.com/m/674/15368/112032
 [hoisting]: https://login.codingdojo.com/m/674/15368/112033
+
 [hoist_practice]: https://login.codingdojo.com/m/674/15368/112035
+[mern_hoist_practice]: https://github.com/tmax818/mern_hoist_practice
+
 [destructuring]: https://login.codingdojo.com/m/674/15368/112036
+
 [predict_destructuring_core]: https://login.codingdojo.com/m/674/15368/112037
+[mern_predict_destructuring_core]: https://github.com/tmax818/mern_predict_destructuring_core
+
 [rest_spread]: https://login.codingdojo.com/m/674/15368/112038
 [arrow_functions]: https://login.codingdojo.com/m/674/15368/112039
+
 [convert_to_arrow_core]: https://login.codingdojo.com/m/674/15368/112040
+[mern_convert_to_arrow_core]: https://github.com/tmax818/mern_convert_to_arrow_core
+
 [ternary_operator]: https://login.codingdojo.com/m/674/15368/112041
 [the_big_o]: https://login.codingdojo.com/m/674/15368/112042
+
 [how_long_did_that_take_optional]: https://login.codingdojo.com/m/674/15368/112043
+
 [quick_sort_introduction]: https://login.codingdojo.com/m/674/15368/112044
+
 [quick_sort_optional]: https://login.codingdojo.com/m/674/15368/112045
+
 [jest_unit_testing]: https://login.codingdojo.com/m/674/15368/112046
 
 [overview_oop]: https://login.codingdojo.com/m/674/15369/112048
 [classes]: https://login.codingdojo.com/m/674/15369/112049
 [inheritance_and_super]: https://login.codingdojo.com/m/674/15369/112050
+
 [ninja_practice]: https://login.codingdojo.com/m/674/15369/112051
+[mern_ninja_practice]: https://github.com/tmax818/mern_ninja_practice
+
 [super_ninja_core]: https://login.codingdojo.com/m/674/15369/112052
+[mern_super_ninja_core]: https://github.com/tmax818/mern_super_ninja_core
+
 [dojo_ccg]: https://login.codingdojo.com/m/674/15369/112053
+
 [its_time_to_duel_practice]: https://login.codingdojo.com/m/674/15369/112054
 
 [multi_paradigm]: https://login.codingdojo.com/m/674/15370/112055
 [callback_functions]: https://login.codingdojo.com/m/674/15370/112057
 [the_big_freeze]: https://login.codingdojo.com/m/674/15370/112058
 [map_and_filter]: https://login.codingdojo.com/m/674/15370/112059
+
 [object_master_optional]: https://login.codingdojo.com/m/674/15370/112060
+
 [currying_optional]: https://login.codingdojo.com/m/674/15370/112061
 [closures_optional]: https://login.codingdojo.com/m/674/15370/112062
 
@@ -207,11 +228,14 @@
 
 [what_is_react]: https://login.codingdojo.com/m/674/15377/112139
 [using_react]: https://login.codingdojo.com/m/674/15377/112140
+
 [first_react_practice]: https://login.codingdojo.com/m/674/15377/112141
+
 [jsx]: https://login.codingdojo.com/m/674/15377/112142
 [create_react_app]: https://login.codingdojo.com/m/674/15377/112143
 [folder_structure_react]: https://login.codingdojo.com/m/674/15377/112144
 [using_jsx]: https://login.codingdojo.com/m/674/15377/112145
+
 [first_jsx_core]: https://login.codingdojo.com/m/674/15377/112146
 
 [class_components]: https://login.codingdojo.com/m/674/15378/112148
@@ -290,7 +314,10 @@
 [nested_documents]: https://login.codingdojo.com/m/674/15384/112236
 
 [introduction]: https://login.codingdojo.com/m/674/15385/112237
-[setting_up_mern]: https://login.codingdojo.com/m/674/15385/112238
+
+[setting_up_mern]: https://login.codingdojo.com/m/674/15385/116711
+[mern_setting_up_mern_reading]: https://github.com/tmax818/mern_setting_up_mern_reading
+
 [hello_world]: https://login.codingdojo.com/m/674/15385/112239
 [create_part_one]: https://login.codingdojo.com/m/674/15385/112240
 [create_part_two]: https://login.codingdojo.com/m/674/15385/112241
@@ -308,6 +335,12 @@
 [refactor_reuse_recycle_optional]: https://login.codingdojo.com/m/674/15386/112252
 [material_ui]: https://login.codingdojo.com/m/674/15386/112253
 [validations_mern]: https://login.codingdojo.com/m/674/15386/112254
+
 [authors_core]: https://login.codingdojo.com/m/674/15386/112255
+[mern_authors_core]: https://github.com/tmax818/mern_authors_core
+
 [team_manager_practice]: https://login.codingdojo.com/m/674/15386/112256
+[mern_team_manager_practice]: https://github.com/tmax818/mern_team_manager_practice
+
+
 [sports_demo]: https://login.codingdojo.com/m/674/15386/112257

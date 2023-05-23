@@ -10,7 +10,7 @@
 ||**optional**|[how_long_did_that_take_optional]|[notes](./01javascript/03fundamentals/how_long_did_that_take_optional/README.md)|
 ||**optional**|[quick_sort_optional]|[notes](./01javascript/03fundamentals/quick_sort_optional/README.md)||
 |[mern_ninja_practice]|**practice**|[ninja_practice]|[notes](./01javascript/04oop/ninja_practice/README.md)|
-||**core**|[super_ninja_core]|[notes](./01javascript/04oop/super_ninja_core/README.md)|
+|[mern_super_ninja_core]|**core**|[super_ninja_core]|[notes](./01javascript/04oop/super_ninja_core/README.md)|
 ||**practice**|[its_time_to_duel_practice]|[notes](./01javascript/04oop/its_time_to_duel_practice/README.md)|
 ||**optional**|[object_master_optional]|[notes](./01javascript/05functional_programming/object_master_optional/README.md)|
 |[mern_first_react_practice]|**practice**|[first_react_practice]|[notes](./02react/01intro_to_react/first_react_practice/README.md)|
@@ -36,11 +36,11 @@
 ||**practice**|[using_mongodb_practice]|[notes](./04mongodb/01mongodb/using_mongodb_practice/README.md)|
 ||**core**|[jokes_api_core]|[notes](./04mongodb/02mongoose/jokes_api_core/README.md)|
 ||**practice**|[product_manager_part_one_practice]|[notes](./05full_stack_mernb/01full_stack_mern/product_manager_part_one_practice/README.md)|
-||**core**|[product_manager_part_two_core]|[notes](./05full_stack_mernb/01full_stack_mern/product_manager_part_two_core/README.md)|
-||**core**|[product_manager_part_three_core]|[notes](./05full_stack_mernb/01full_stack_mern/product_manager_part_three_core/README.md)|
+|[mern_product_manager_part_two_core]|**core**|[product_manager_part_two_core]|[notes](./05full_stack_mernb/01full_stack_mern/product_manager_part_two_core/README.md)|
+|[mern_product_manager_part_three_core]|**core**|[product_manager_part_three_core]|[notes](./05full_stack_mernb/01full_stack_mern/product_manager_part_three_core/README.md)|
 ||**optional**|[refactor_reuse_recycle_optional]|[notes](./05full_stack_mernb/02advanced_mern/refactor_reuse_recycle_optional/README.md)|
-||**core**|[authors_core]|[notes](./05full_stack_mernb/02advanced_mern/authors_core/README.md)|
-||**practice**|[team_manager_practice]|[notes](./05full_stack_mernb/02advanced_mern/team_manager_practice/README.md)|
+|[mern_authors_core]|**core**|[authors_core]|[notes](./05full_stack_mernb/02advanced_mern/authors_core/README.md)|
+|[mern_team_manager_practice]|**practice**|[team_manager_practice]|[notes](./05full_stack_mernb/02advanced_mern/team_manager_practice/README.md)|
 
 
 
@@ -74,6 +74,7 @@
 [mern_first_jsx_core]: https://github.com/tmax818/mern_first_jsx_core
 
 [prop_it_up_practice]: https://login.codingdojo.com/m/674/15378/112151
+[mern_prop_it_up_practice]: https://github.com/tmax818/mern_prop_it_up_practice
 
 [putting_it_together_optional]: https://login.codingdojo.com/m/674/15378/112156
 
@@ -82,6 +83,7 @@
 [big_inversion_core]: https://login.codingdojo.com/m/674/15379/112166
 
 [hook_form_practice]: https://login.codingdojo.com/m/674/15379/112171
+
 [more_forms_core]: https://login.codingdojo.com/m/674/15379/112173
 [form_validation_optional]: https://login.codingdojo.com/m/674/15379/112175
 [box_generator_practice]: https://login.codingdojo.com/m/674/15379/112180
@@ -105,21 +107,20 @@
 [jokes_api_core]: https://login.codingdojo.com/m/674/15384/112235
 [mern_jokes_api_core]: https://github.com/tmax818/mern_jokes_api_core
 
-[nested_documents]: https://login.codingdojo.com/m/674/15384/112236
-[introduction]: https://login.codingdojo.com/m/674/15385/112237
-[setting_up_mern]: https://login.codingdojo.com/m/674/15385/112238
-[hello_world]: https://login.codingdojo.com/m/674/15385/112239
-[create_part_one]: https://login.codingdojo.com/m/674/15385/112240
-[create_part_two]: https://login.codingdojo.com/m/674/15385/112241
-[product_manager_part_one_practice]: https://login.codingdojo.com/m/674/15385/112242
-[list_and_detail]: https://login.codingdojo.com/m/674/15385/112243
-[product_manager_part_two_core]: https://login.codingdojo.com/m/674/15385/112244
-[update_and_delete]: https://login.codingdojo.com/m/674/15385/112245
-[product_manager_part_three_core]: https://login.codingdojo.com/m/674/15385/112246
-[looking_ahead]: https://login.codingdojo.com/m/674/15385/112245
-[refactor_reuse_recycle_optional]: https://login.codingdojo.com/m/674/15386/112252
-[authors_core]: https://login.codingdojo.com/m/674/15386/112255
 
+[product_manager_part_one_practice]: https://login.codingdojo.com/m/674/15385/112242
+[mern_product_manager_part_one_practice]: https://github.com/tmax818/mern_product_manager_part_one_practice
+
+[product_manager_part_two_core]: https://login.codingdojo.com/m/674/15385/112244
+[mern_product_manager_part_two_core]: https://github.com/tmax818/mern_product_manager_part_two_core
+
+[product_manager_part_three_core]: https://login.codingdojo.com/m/674/15385/112246
+[mern_product_manager_part_three_core]: https://github.com/tmax818/mern_product_manager_part_three_core
+
+[refactor_reuse_recycle_optional]: https://login.codingdojo.com/m/674/15386/112252
+
+[authors_core]: https://login.codingdojo.com/m/674/15386/112255
+[mern_authors_core]: https://github.com/tmax818/mern_authors_core
 
 [team_manager_practice]: https://login.codingdojo.com/m/674/15386/112256
 [mern_team_manager_practice]: https://github.com/tmax818/mern_team_manager_practice
